@@ -1,4 +1,4 @@
 - 👋 Hi. I'm Anurag Rajput
 - 🔭 I’m currently working on Android Security and cost reduction of healtcare supply chain
 - 💬 Ask me about data analysis, visualization and AI/ML solutions
-- 📫 The best way to get in touch with me is through my Linkedin Profile https://www.linkedin.com/in/anurag-rajput-53b0a8219/ 
+- 📫 The best way to get in touch with me is through my https://www.linkedin.com/in/anurag-rajput-53b0a8219/  
